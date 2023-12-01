@@ -1,4 +1,4 @@
 # test-repo
 
-Git練習用
+Git 練習用
 リモートで更新

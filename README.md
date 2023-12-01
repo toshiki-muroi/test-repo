@@ -1,4 +1,2 @@
 # test-repo
-
-Git 練習用
-1
+Git練習用
